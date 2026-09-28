@@ -1,0 +1,14 @@
+bin/
+.vs/
+*.user
+*.suo
+native/
+obj/
+dist/
+dist-range/
+data/
+verification/bin/
+verification/obj/
+range-tile.jpg
+openseadragon-*.tgz
+verification/osd-package/

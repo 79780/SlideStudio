@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "SlideStudio": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "BlobBaseUrl": "http://localhost:56761/blob/"
+      },
+      "applicationUrl": "https://localhost:56760;http://localhost:56761"
+    }
+  }
+}
